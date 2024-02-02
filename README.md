@@ -31,7 +31,7 @@ Projeto construído durante o curso Imersão17 da FullCycle.
 
 ## **✨ Como executar**
 
-- **_[Go](./README-install.md)_**
+- **_[Go](./goApi/README.md)_**
 
 ## **💛 Contato**
 
