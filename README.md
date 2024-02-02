@@ -2,7 +2,7 @@
 
 <!-- ![preview](./.github/preview.png) -->
 
-Projeto construído durante o curso Imersão 17 da FullCycle com o objetivo de Desenvolver uma aplicação moderna e escalável com microsserviços, contendo pedidos e forma de pagamento.
+Projeto construído durante Imersão Full Stack & Full Cycle do Wesley Willians com o objetivo de Desenvolver uma aplicação moderna e escalável com microsserviços, contendo pedidos e forma de pagamento.
 
 [🔗 Clique aqui para acessar](https://my-resume-bamarcheti.vercel.app/)
 
