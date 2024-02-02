@@ -1,8 +1,8 @@
-# **Imersão17 FullCycle**
+# **Imersão 17 FullCycle - Desenvolvimento de aplicações modernas e escaláveis com microsserviços**
 
 <!-- ![preview](./.github/preview.png) -->
 
-Projeto construído durante o curso Imersão17 da FullCycle.
+Projeto construído durante o curso Imersão 17 da FullCycle com o objetivo de Desenvolver uma aplicação moderna e escalável com microsserviços, contendo pedidos e forma de pagamento.
 
 [🔗 Clique aqui para acessar](https://my-resume-bamarcheti.vercel.app/)
 
@@ -15,6 +15,7 @@ Projeto construído durante o curso Imersão17 da FullCycle.
 > ### _Server_
 >
 > ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+> ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 >
 > ### _Frontend_
 >
