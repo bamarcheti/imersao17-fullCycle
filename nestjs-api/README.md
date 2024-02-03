@@ -71,3 +71,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Novo módulo
+
+### Para criar um novo módulo é necessário rodar o seguinte comando
+
+> - Execute `nest g resource`
+> - Nomeie o módulo deixando-a no plural, adicione o layer (neste projeto é utilizado o REST API) e se quer que crie o CRUD
