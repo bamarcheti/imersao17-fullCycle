@@ -1,6 +1,6 @@
 # **✨ Como executar**
 
-**Para o correto funcionamento deste projeto, é necessário tê-lo aberto localmente em sua máquina e com o terminal acessado á página. Execute os seguintes comandos no terminal de sua escolha:**
+**Para o correto funcionamento deste projeto, é necessário tê-lo aberto localmente em sua máquina e com o terminal acessado no projeto. Execute os seguintes comandos no terminal de sua escolha:**
 
 > GO
 >
