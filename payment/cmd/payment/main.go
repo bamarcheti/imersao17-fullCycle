@@ -14,6 +14,7 @@ import (
 func main() {
 	ctx := context.Background()
 	ch, err := rabbitmq.OpenChannel()
+	rabbitmq.OpenChannel()
 	if err != nil {
 		panic(err)
 	}
