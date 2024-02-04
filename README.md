@@ -28,6 +28,7 @@ Projeto construído durante Imersão Full Stack & Full Cycle do Wesley Willians 
 
 - **_[Go](./goApi/README.md)_**
 - **_[Nest.js](./nestjs-api/README.md)_**
+- **_[Next.js](./nextjs-frontend/README.md)_**
 
 ## **💛 Contato**
 
