@@ -1,5 +1,6 @@
 "use client";
 
+import { logoutAction } from "@/server-actions/auth.action";
 import AccountCircle from "@mui/icons-material/AccountCircle";
 import ListAltIcon from "@mui/icons-material/ListAlt";
 import LogoutIcon from "@mui/icons-material/Logout";
@@ -36,6 +37,7 @@ export function UserMenu(props: UserMenuProps) {
   };
 
   const handleLogout = async () => {
+    await logoutAction();
     handleClose();
   };
 

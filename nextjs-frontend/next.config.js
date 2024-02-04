@@ -10,16 +10,18 @@ const nextConfig = {
     ];
   },
   images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "source.unsplash.com",
-      },
-      {
-        protocol: "http",
-        hostname: "localhost",
-      },
-    ],
+    // remotePatterns: [
+    //   {
+    //     protocol: "https",
+    //     hostname: "source.unsplash.com",
+    //   },
+
+    //   {
+    //     protocol: "http",
+    //     hostname: "localhost",
+    //   },
+    // ],
+    domains: ["www.google.com", "source.unsplash.com", "localhost"],
   },
 };
 
