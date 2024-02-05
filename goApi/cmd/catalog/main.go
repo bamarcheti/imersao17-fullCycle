@@ -8,8 +8,8 @@ import (
 	"github.com/devfullcycle/imersao17/goapi/internal/database"
 	"github.com/devfullcycle/imersao17/goapi/internal/service"
 	"github.com/devfullcycle/imersao17/goapi/internal/webserver"
+	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/chi/v5/middleware"
 	_ "github.com/go-sql-driver/mysql"
 )
 
@@ -38,9 +38,9 @@ func main() {
 
 	c.Get("/product/{id}", webProductHandler.GetProduct)
 	c.Get("/product", webProductHandler.GetProducts)
-	c.Post("/product", webProductHandler.CreateProduct)
 	c.Get("/product/category/{categoryID}", webProductHandler.GetProductByCategoryID)
+	c.Post("/product", webProductHandler.CreateProduct)
 
-	fmt.Printf("Server is running on port 8080")
+	fmt.Println("Server is running on port 8080")
 	http.ListenAndServe(":8080", c)
 }
