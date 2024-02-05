@@ -23,7 +23,7 @@ Content-Type: application/json
 
 ###
 GET http://localhost:3000/orders
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzZXJuYW1lIjoiY2hyaXMiLCJpYXQiOjE3MDY5OTQ3ODgsImV4cCI6MTcwNjk5NDg0OH0.eUj3z_WAlb4XTkkASzCWEzMTha6gK_I5Cpxk94_BuQU
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzZXJuYW1lIjoiY2hyaXMiLCJpYXQiOjE3MDcxNDU5MzksImV4cCI6MTcwNzE0NTk5OX0.IIBu419yVR1VyHOhA1peEQt-7BJya-e83XIxbvxawqY
 
 ###
 GET http://localhost:3000/orders/db5b7d3b-fad9-49a8-ad52-b54b2848c87f
