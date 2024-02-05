@@ -4,9 +4,10 @@
 
 > GO
 >
+> - Execute `docker compose up` para subir o banco de dados.
 > - Para instalar os pacotes pendentes `go mod tidy`.
 > - Execute `cd cmd/catalog` para acessar a pasta onde está o main.
-> - Execute `go run main.go` para iniciar o servidor.
+> - Execute `go run main.go` ou `go run cmd/catalog/main.go`_(sem necessidade de realizar o passo anterior)_ para iniciar o servidor.
 
 > DOCKER
 >
