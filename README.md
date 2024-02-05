@@ -1,6 +1,6 @@
 # **Imersão 17 FullCycle - Desenvolvimento de aplicações modernas e escaláveis com microsserviços**
 
-<!-- ![preview](./.github/preview.png) -->
+![preview](./.github/preview.png)
 
 Projeto construído durante Imersão Full Stack & Full Cycle do Wesley Willians com o objetivo de Desenvolver uma aplicação moderna e escalável com microsserviços, contendo pedidos e forma de pagamento.
 
