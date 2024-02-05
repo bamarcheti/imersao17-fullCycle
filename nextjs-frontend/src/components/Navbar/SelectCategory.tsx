@@ -11,7 +11,6 @@ export function SelectCategory({ categories }: { categories: Category[] }) {
   return (
     <FormControl size="small" sx={{ width: 200 }}>
       <Select
-        // className="select-category"
         name="select-category"
         sx={{ backgroundColor: grey[400] }}
         value={searchParams.get("category_id") || "0"}
